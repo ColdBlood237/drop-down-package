@@ -1,5 +1,5 @@
 {
-  "name": "drop-down-package",
+  "name": "@coldblood_/drop-down-package",
   "version": "1.0.0",
   "description": "animate drop down menus",
   "main": "index.js",
